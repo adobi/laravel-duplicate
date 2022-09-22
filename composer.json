@@ -1,5 +1,5 @@
 {
-    "name": "neurony/laravel-duplicate",
+    "name": "adobi/laravel-duplicate",
     "description": "Duplicate any Eloquent model along with its underlying relationships",
     "license": "MIT",
     "keywords": [
@@ -15,8 +15,8 @@
     "prefer-stable": true,
     "authors": [
         {
-            "name": "Andrei Badea",
-            "email": "zbiller@gmail.com",
+            "name": "Attila Dobi",
+            "email": "hello@adobi.hu",
             "role": "Developer"
         }
     ],
